@@ -1,3 +1,4 @@
-# Studyrecording
+# testrepo
+## Editing the file
 
-testrepo
+Its a markdown file in this repository.
